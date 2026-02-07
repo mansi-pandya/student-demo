@@ -1,4 +1,4 @@
 # student-demo
 This is my first Git repository.
 <br>
-Author - Mansi Pandya
+Author - Mansi (Microsoft)
